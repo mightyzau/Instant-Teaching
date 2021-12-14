@@ -1,5 +1,5 @@
 
-This repo is the official implementation of [Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework](https://arxiv.org/abs/2103.11402 "Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework).
+This repo is the official implementation of ["Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework"](https://arxiv.org/abs/2103.11402).
 
 The code is based on MMdetection Toolbox.
 
