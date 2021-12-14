@@ -1,5 +1,14 @@
 
 This repo is the official implementation of ["Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework"](https://arxiv.org/abs/2103.11402).
+```
+@inproceedings{zhou2021instant,
+  title={Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework},
+  author={Zhou, Qiang and Yu, Chaohui and Wang, Zhibin and Qian, Qi and Li, Hao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4081--4090},
+  year={2021}
+}
+```
 
 The code is based on MMdetection Toolbox.
 
