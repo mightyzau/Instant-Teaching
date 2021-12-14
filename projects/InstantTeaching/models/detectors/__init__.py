@@ -1,0 +1,1 @@
+from .instant_teaching import InstantTeachingTwoStageDetector
